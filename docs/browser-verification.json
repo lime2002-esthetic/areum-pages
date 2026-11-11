@@ -1,0 +1,45 @@
+{
+  "clicks": [
+    {
+      "event": "booking_site_click",
+      "store_id": "kichijoji",
+      "store_name": "シミケア専門店 Areum 吉祥寺店",
+      "lp_id": "areum-kichijoji",
+      "booking_url": "https://i3ay4k.b-merit.jp/T9DsWS/web/reserve2/?no_menu=1&redirect=1",
+      "button_location": "price_image"
+    },
+    {
+      "event": "booking_site_click",
+      "store_id": "kichijoji",
+      "store_name": "シミケア専門店 Areum 吉祥寺店",
+      "lp_id": "areum-kichijoji",
+      "booking_url": "https://i3ay4k.b-merit.jp/T9DsWS/web/reserve2/?no_menu=1&redirect=1",
+      "button_location": "campaign_image"
+    },
+    {
+      "event": "booking_site_click",
+      "store_id": "kichijoji",
+      "store_name": "シミケア専門店 Areum 吉祥寺店",
+      "lp_id": "areum-kichijoji",
+      "booking_url": "https://i3ay4k.b-merit.jp/T9DsWS/web/reserve2/?no_menu=1&redirect=1",
+      "button_location": "campaign_button"
+    },
+    {
+      "event": "booking_site_click",
+      "store_id": "kichijoji",
+      "store_name": "シミケア専門店 Areum 吉祥寺店",
+      "lp_id": "areum-kichijoji",
+      "booking_url": "https://i3ay4k.b-merit.jp/T9DsWS/web/reserve2/?no_menu=1&redirect=1",
+      "button_location": "store_button"
+    }
+  ],
+  "metadata": {
+    "store_id": "kichijoji",
+    "store_name": "シミケア専門店 Areum 吉祥寺店",
+    "lp_id": "areum-kichijoji"
+  },
+  "duplicateScriptAddsNoEvent": true,
+  "utmRetained": true,
+  "noGoogleScripts": true,
+  "images": 12
+}
